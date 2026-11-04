@@ -57,6 +57,15 @@ flutter run
 
 ---
 
+## 👨‍💻 Pengembang
+
+**Rusi Adristi** — Fresh Graduate S1 Sistem Informasi dengan fokus pada Web Development, IT Business Analysis, System Analysis, dan UI/UX Design.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rusi%20Adristi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/rusi-adristi-740655408)
+[![Instagram](https://img.shields.io/badge/Instagram-@radristii-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/radristii?igsh=MTRrc2I0d2JsYW42cQ%3D%3D&utm_source=qr)
+
+---
+
 ## 📄 Hak Cipta & Lisensi
 
 Hak Cipta © 2026 **Rusi Adristi**. Seluruh hak cipta dilindungi undang-undang (*All rights reserved*).  
